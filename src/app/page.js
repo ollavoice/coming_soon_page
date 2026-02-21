@@ -54,8 +54,16 @@ export default function Home() {
               desc="Built to reduce pressure, fear, and hesitation — creating space to talk openly."
             />
             <Feature
+              title="Secure Sign-In"
+              desc="Google sign-in is used only to prevent bots and abuse. Your name, email, and identity are never visible to other users."
+            />
+            <Feature
               title="Voice Changing"
               desc="Your voice is personal information. To protect your identity, we apply a slight voice change before matching, keeping you anonymous while still sounding natural."
+            />
+            <Feature
+              title="Instant Leave & Report"
+              desc="End any conversation immediately with one tap. Report inappropriate behavior instantly — no explanations required."
             />
 
 

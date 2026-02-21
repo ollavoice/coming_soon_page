@@ -36,15 +36,9 @@ export default function Home() {
               title="Anonymous by design"
               desc="Talk without revealing identity. Your voice and words matter — not your profile."
             />
-
             <Feature
-              title="Suspension-based Safety"
-              desc="If someone behaves badly, they get suspended for a few days. No warnings — clear boundaries."
-            />
-
-            <Feature
-              title="Smart Matching"
-              desc="Good users match with good users. Suspended or problematic users get matched with similar profiles."
+              title="Voice Changing"
+              desc="Your voice is treated as personal information, so we lightly modify it before matching to protect your identity."
             />
 
             <Feature
@@ -56,6 +50,16 @@ export default function Home() {
               title="Judgement-free experience"
               desc="Built to reduce pressure, fear, and hesitation — creating space to talk openly."
             />
+
+            <Feature
+              title="Live Global Activity"
+              desc="Real-time world map showing where people are connecting from, based on their IP location."
+            />
+
+
+
+
+
 
           </div>
         </section>

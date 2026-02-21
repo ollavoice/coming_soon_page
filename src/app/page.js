@@ -18,11 +18,14 @@ export default function Home() {
             <h2 className="text-4xl font-bold text-gray-900 leading-tight">
               Talk Freely.
               <span className="text-[#ff5200]"> Stay Safe.</span>
+              <p className="text-sm text-gray-500 mt-2">
+                Voice-only. One person at a time.
+              </p>
             </h2>
 
             <p className="text-gray-600 mt-3 text-base leading-relaxed">
-              Anonymous, interest-based voice conversations designed for people
-              who want meaningful and judgement-free interactions.
+              Anonymous, interest-based 1-on-1 voice conversations.
+              No video. No profiles. Just real conversations.
             </p>
 
           </div>
@@ -37,8 +40,8 @@ export default function Home() {
               desc="Talk without revealing identity. Your voice and words matter — not your profile."
             />
             <Feature
-              title="Voice Changing"
-              desc="Your voice is treated as personal information, so we lightly modify it before matching to protect your identity."
+              title="No Personal Labels"
+              desc="We don’t ask for gender, photos, or personal details. Conversations start with shared interests — nothing else."
             />
 
             <Feature
@@ -50,10 +53,9 @@ export default function Home() {
               title="Judgement-free experience"
               desc="Built to reduce pressure, fear, and hesitation — creating space to talk openly."
             />
-
             <Feature
-              title="Live Global Activity"
-              desc="Real-time world map showing where people are connecting from, based on their IP location."
+              title="Voice Changing"
+              desc="Your voice is personal information. To protect your identity, we apply a slight voice change before matching, keeping you anonymous while still sounding natural."
             />
 
 
